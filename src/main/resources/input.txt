@@ -1,0 +1,11 @@
+ADD ram 3 bheem 5
+ADD laxman 5 nakul 2
+ADD ram 4 sahdev 2
+ADD bharat 3 bheem 5
+ADD ram 3 bheem 1
+ADD laxman 5 sahdev 3
+ADD bharat 5 nakul 5
+ADD ram 4 nakul 1
+SHOW
+MATCHRIDE ram
+MATCHRIDE laxman
